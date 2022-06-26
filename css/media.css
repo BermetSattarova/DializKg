@@ -1,0 +1,8 @@
+@import "style.css";
+
+@media (max-width: 1200px) {
+    .map_kirgiz__wrapper {
+        width: 90%;
+    }
+}
+
