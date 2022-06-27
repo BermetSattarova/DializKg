@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87a9746b-f1c3-402a-b969-1251cbb89ca8" name="Changes" comment="" />
+    <list default="true" id="87a9746b-f1c3-402a-b969-1251cbb89ca8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DializKg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DializKg/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../DializKg" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,11 +59,34 @@
       <workItem from="1656237971297" duration="1092000" />
       <workItem from="1656240877195" duration="1541000" />
       <workItem from="1656242460162" duration="2045000" />
-      <workItem from="1656244848562" duration="4461000" />
+      <workItem from="1656244848562" duration="6330000" />
+      <workItem from="1656270079084" duration="1920000" />
+      <workItem from="1656310066998" duration="2799000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
